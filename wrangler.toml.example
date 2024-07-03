@@ -1,8 +1,8 @@
-name = "dify-extension-example"
-compatibility_date = "2023-01-01"
+name = "test-term"
+compatibility_date = "2024-01-01"
 
 [vars]
-TOKEN = "bananaiscool"
+TOKEN = "laicheehong"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
